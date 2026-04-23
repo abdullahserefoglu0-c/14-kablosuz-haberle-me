@@ -1,3 +1,3 @@
 uygulama kodları
 
-py -m pip install customtkinter
+py -m pip install customtkinter " Bu kütüphaneyi indirmelisiniz."
